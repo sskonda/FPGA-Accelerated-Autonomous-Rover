@@ -1,0 +1,48 @@
+{
+  "schema": "xilinx.com:schema:json_instance:1.0",
+  "ip_inst": {
+    "xci_name": "system_DVIClocking_0_0",
+    "cell_name": "DVIClocking_0",
+    "component_reference": "xilinx.com:module_ref:DVIClocking:1.0",
+    "ip_revision": "1",
+    "gen_directory": "../../../../../../Zybo-Z7-HW.gen/sources_1/bd/system/ip/system_DVIClocking_0_0",
+    "parameters": {
+      "component_parameters": {
+        "Component_Name": [ { "value": "system_DVIClocking_0_0", "resolve_type": "user", "usage": "all" } ]
+      },
+      "project_parameters": {
+        "ARCHITECTURE": [ { "value": "zynq" } ],
+        "BASE_BOARD_PART": [ { "value": "digilentinc.com:zybo-z7-20:part0:1.1" } ],
+        "BOARD_CONNECTIONS": [ { "value": "" } ],
+        "DEVICE": [ { "value": "xc7z020" } ],
+        "NEXTGEN_VERSAL": [ { "value": "0" } ],
+        "PACKAGE": [ { "value": "clg400" } ],
+        "PREFHDL": [ { "value": "VHDL" } ],
+        "SILICON_REVISION": [ { "value": "" } ],
+        "SIMULATOR_LANGUAGE": [ { "value": "MIXED" } ],
+        "SPEEDGRADE": [ { "value": "-1" } ],
+        "STATIC_POWER": [ { "value": "" } ],
+        "TEMPERATURE_GRADE": [ { "value": "" } ]
+      },
+      "runtime_parameters": {
+        "IPCONTEXT": [ { "value": "IP_Integrator" } ],
+        "IPREVISION": [ { "value": "1" } ],
+        "MANAGED": [ { "value": "TRUE" } ],
+        "OUTPUTDIR": [ { "value": "../../../../../../Zybo-Z7-HW.gen/sources_1/bd/system/ip/system_DVIClocking_0_0" } ],
+        "SELECTEDSIMMODEL": [ { "value": "" } ],
+        "SHAREDDIR": [ { "value": "../../ipshared" } ],
+        "SWVERSION": [ { "value": "2024.2" } ],
+        "SYNTHESISFLOW": [ { "value": "OOC_HIERARCHICAL" } ]
+      }
+    },
+    "boundary": {
+      "ports": {
+        "PixelClk5X": [ { "direction": "in" } ],
+        "PixelClk": [ { "direction": "out" } ],
+        "SerialClk": [ { "direction": "out" } ],
+        "aLockedIn": [ { "direction": "in" } ],
+        "aLockedOut": [ { "direction": "out" } ]
+      }
+    }
+  }
+}

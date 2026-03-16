@@ -1,0 +1,95 @@
+{
+   "ActiveEmotionalView":"Default View",
+   "Default View_ScaleFactor":"0.701169",
+   "Default View_TopLeft":"-178,-335",
+   "ExpandedHierarchyInLayout":"",
+   "guistr":"# # String gsaved with Nlview 7.8.0 2024-04-26 e1825d835c VDI=44 GEI=38 GUI=JA:21.0
+#  -string -flagsOSRD
+preplace port DDR -pg 1 -lvl 11 -x 3730 -y 260 -defaultsOSRD
+preplace port FIXED_IO -pg 1 -lvl 11 -x 3730 -y 290 -defaultsOSRD
+preplace port cam_gpio -pg 1 -lvl 11 -x 3730 -y 230 -defaultsOSRD
+preplace port cam_iic -pg 1 -lvl 11 -x 3730 -y 320 -defaultsOSRD
+preplace port dphy_hs_clock -pg 1 -lvl 0 -x 0 -y 960 -defaultsOSRD
+preplace port hdmi_tx -pg 1 -lvl 11 -x 3730 -y 850 -defaultsOSRD
+preplace port port-id_dphy_clk_lp_n -pg 1 -lvl 0 -x 0 -y 780 -defaultsOSRD
+preplace port port-id_dphy_clk_lp_p -pg 1 -lvl 0 -x 0 -y 720 -defaultsOSRD
+preplace portBus dphy_data_hs_n -pg 1 -lvl 0 -x 0 -y 750 -defaultsOSRD
+preplace portBus dphy_data_hs_p -pg 1 -lvl 0 -x 0 -y 990 -defaultsOSRD
+preplace portBus dphy_data_lp_n -pg 1 -lvl 0 -x 0 -y 1050 -defaultsOSRD
+preplace portBus dphy_data_lp_p -pg 1 -lvl 0 -x 0 -y 1020 -defaultsOSRD
+preplace inst AXI_BayerToRGB_1 -pg 1 -lvl 6 -x 1900 -y 910 -defaultsOSRD
+preplace inst AXI_GammaCorrection_0 -pg 1 -lvl 7 -x 2290 -y 930 -defaultsOSRD
+preplace inst DVIClocking_0 -pg 1 -lvl 6 -x 1900 -y 720 -defaultsOSRD
+preplace inst MIPI_CSI_2_RX_0 -pg 1 -lvl 5 -x 1520 -y 890 -defaultsOSRD
+preplace inst MIPI_D_PHY_RX_0 -pg 1 -lvl 4 -x 1150 -y 1030 -defaultsOSRD
+preplace inst processing_system7_0 -pg 1 -lvl 10 -x 3480 -y 320 -defaultsOSRD
+preplace inst rgb2dvi_0 -pg 1 -lvl 10 -x 3480 -y 850 -defaultsOSRD
+preplace inst rst_clk_wiz_0_50M -pg 1 -lvl 2 -x 400 -y 860 -defaultsOSRD
+preplace inst rst_vid_clk_dyn -pg 1 -lvl 7 -x 2290 -y 700 -defaultsOSRD
+preplace inst xlconcat_0 -pg 1 -lvl 9 -x 3090 -y 660 -defaultsOSRD
+preplace inst axi_mem_intercon -pg 1 -lvl 9 -x 3090 -y 120 -defaultsOSRD
+preplace inst axi_mem_intercon_1 -pg 1 -lvl 9 -x 3090 -y 340 -defaultsOSRD
+preplace inst axi_vdma_0 -pg 1 -lvl 8 -x 2710 -y 620 -defaultsOSRD
+preplace inst clk_wiz_0 -pg 1 -lvl 1 -x 110 -y 1190 -defaultsOSRD
+preplace inst ps7_0_axi_periph -pg 1 -lvl 3 -x 790 -y 690 -defaultsOSRD
+preplace inst v_axi4s_vid_out_0 -pg 1 -lvl 9 -x 3090 -y 890 -defaultsOSRD
+preplace inst video_dynclk -pg 1 -lvl 4 -x 1150 -y 690 -defaultsOSRD
+preplace inst vtg -pg 1 -lvl 8 -x 2710 -y 930 -defaultsOSRD
+preplace netloc DVIClocking_0_SerialClk 1 6 4 2080J 1080 NJ 1080 NJ 1080 3240
+preplace netloc DVIClocking_0_aLockedOut 1 6 1 N 740
+preplace netloc MIPI_D_PHY_RX_0_RxByteClkHS 1 4 1 1380 880n
+preplace netloc PixelClk_Generator_clk_out1 1 6 4 2120 800 2530 780 2940 740 3270J
+preplace netloc axi_vdma_0_mm2s_introut 1 8 1 N 660
+preplace netloc axi_vdma_0_s2mm_introut 1 8 1 N 680
+preplace netloc clk_wiz_0_locked 1 1 1 220 900n
+preplace netloc clk_wiz_1_locked 1 4 2 NJ 700 1720
+preplace netloc clk_wiz_1_pxl_clk_5x 1 4 2 NJ 680 1730
+preplace netloc dphy_clk_lp_n_1 1 0 4 NJ 780 220J 760 580J 970 NJ
+preplace netloc dphy_clk_lp_p_1 1 0 4 NJ 720 NJ 720 610J 950 NJ
+preplace netloc dphy_data_hs_n_1 1 0 4 NJ 750 200J 740 590J 1010 NJ
+preplace netloc dphy_data_hs_p_1 1 0 4 NJ 990 NJ 990 NJ 990 NJ
+preplace netloc dphy_data_lp_n_1 1 0 4 NJ 1050 NJ 1050 NJ 1050 NJ
+preplace netloc dphy_data_lp_p_1 1 0 4 NJ 1020 NJ 1020 NJ 1020 930J
+preplace netloc mm_clk_150 1 1 9 NJ 1180 NJ 1180 930J 1210 1360 760 1680 820 2120 820 2460 490 2910 470 3260
+preplace netloc processing_system7_0_FCLK_CLK0 1 0 11 20 710 NJ 710 630J 920 950 800 1310J 730 1710J 1100 NJ 1100 NJ 1100 NJ 1100 NJ 1100 3710
+preplace netloc processing_system7_0_FCLK_RESET0_N 1 1 10 230 750 620J 910 960J 810 1300J 640 NJ 640 2090 1110 NJ 1110 NJ 1110 NJ 1110 3690
+preplace netloc ref_clk_200 1 1 3 230J 1080 NJ 1080 1000
+preplace netloc rst_clk_wiz_0_50M_interconnect_aresetn 1 2 7 600 320 NJ 320 NJ 320 NJ 320 NJ 320 NJ 320 2900
+preplace netloc rst_clk_wiz_0_50M_peripheral_aresetn 1 2 7 650 940 990 820 1350 750 1690 830 2070 1040 2520 760 2930
+preplace netloc rst_clk_wiz_0_50M_peripheral_reset 1 2 2 570 1090 NJ
+preplace netloc rst_vid_clk_dyn_peripheral_aresetn 1 7 1 2470 740n
+preplace netloc rst_vid_clk_dyn_peripheral_reset 1 7 2 2480 1090 2880J
+preplace netloc s_axil_clk_50 1 1 9 210 730 640 930 980 850 1340 740 1700J 990 2120 1050 2490 480 NJ 480 3250
+preplace netloc v_axi4s_vid_out_0_locked 1 9 1 3250 840n
+preplace netloc v_axi4s_vid_out_0_vtg_ce 1 7 3 2540 750 NJ 750 3240
+preplace netloc v_tc_0_irq 1 8 1 2900 640n
+preplace netloc xlconcat_0_dout 1 9 1 3270 390n
+preplace netloc AXI_BayerToRGB_1_AXI_Stream_Master 1 6 1 2100 880n
+preplace netloc AXI_GammaCorrection_0_m_axis_video 1 7 1 2500 570n
+preplace netloc MIPI_CSI_2_RX_0_m_axis_video 1 5 1 N 890
+preplace netloc MIPI_D_PHY_RX_0_D_PHY_PPI 1 4 1 1370 860n
+preplace netloc axi_mem_intercon_1_M00_AXI 1 9 1 3240 310n
+preplace netloc axi_mem_intercon_M00_AXI 1 9 1 3240 120n
+preplace netloc axi_vdma_0_M_AXIS_MM2S 1 8 1 2880 600n
+preplace netloc axi_vdma_0_M_AXI_MM2S 1 8 1 2880 60n
+preplace netloc axi_vdma_0_M_AXI_S2MM 1 8 1 2890 280n
+preplace netloc dphy_hs_clock_1 1 0 4 NJ 960 NJ 960 NJ 960 1000J
+preplace netloc processing_system7_0_DDR 1 10 1 NJ 260
+preplace netloc processing_system7_0_FIXED_IO 1 10 1 3710J 280n
+preplace netloc processing_system7_0_GPIO_0 1 10 1 3710J 230n
+preplace netloc processing_system7_0_IIC_0 1 10 1 3710J 300n
+preplace netloc processing_system7_0_M_AXI_GP0 1 2 9 650 460 NJ 460 NJ 460 NJ 460 NJ 460 NJ 460 NJ 460 NJ 460 3700
+preplace netloc ps7_0_axi_periph_M00_AXI 1 3 5 940 550 NJ 550 NJ 550 NJ 550 NJ
+preplace netloc ps7_0_axi_periph_M01_AXI 1 3 1 N 660
+preplace netloc ps7_0_axi_periph_M02_AXI 1 3 5 930J 780 1320J 770 1670J 810 NJ 810 2510
+preplace netloc ps7_0_axi_periph_M03_AXI 1 3 1 970 700n
+preplace netloc ps7_0_axi_periph_M04_AXI 1 3 2 940 840 NJ
+preplace netloc ps7_0_axi_periph_M05_AXI 1 3 4 960 790 1330J 780 1660J 800 2110J
+preplace netloc rgb2dvi_0_TMDS 1 10 1 NJ 850
+preplace netloc v_axi4s_vid_out_0_vid_io_out 1 9 1 N 820
+preplace netloc v_tc_0_vtiming_out 1 8 1 2920 830n
+levelinfo -pg 1 0 110 400 790 1150 1520 1900 2290 2710 3090 3480 3730
+pagesize -pg 1 -db -bbox -sgen -180 0 3840 1280
+"
+}
+0
