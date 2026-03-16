@@ -1,0 +1,7 @@
+# Vitis / BSP generated output
+**/bsp/**
+**/build/**
+**/build_configs/**
+**/CMakeFiles/**
+**/*.obj
+**/*.o
