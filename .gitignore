@@ -22,3 +22,9 @@
 **/*.jou
 **/*.log
 **/*.str
+
+# Vivado generated IP repo/cache (causes very deep paths)
+**/*.ipdefs/**
+**/.ipdefs/**
+**/ipdefs/**
+**/repo/**
