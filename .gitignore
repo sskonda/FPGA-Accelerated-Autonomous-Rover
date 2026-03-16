@@ -10,3 +10,15 @@
 **/build_configs/**
 **/CMakeFiles/**
 **/*.obj
+
+# Vivado generated files/folders
+**/.Xil/**
+**/*.cache/**
+**/*.gen/**
+**/*.hw/**
+**/*.ip_user_files/**
+**/*.runs/**
+**/*.sim/**
+**/*.jou
+**/*.log
+**/*.str
