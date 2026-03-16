@@ -1,7 +1,12 @@
-# Vitis / BSP generated output
+# Vitis workspace noise
+/.Xil/
+/.metadata/
+/.ide/
+/.rigel_lopper/
+
+# Vitis/SDK build outputs (adjust names to match your tree)
+**/vitis_vid_pass/ps7_cortexa9_0/**
 **/bsp/**
-**/build/**
 **/build_configs/**
 **/CMakeFiles/**
 **/*.obj
-**/*.o
