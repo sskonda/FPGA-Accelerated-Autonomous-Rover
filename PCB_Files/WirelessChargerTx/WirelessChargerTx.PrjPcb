@@ -67,7 +67,7 @@ GenerateClassCluster=0
 DocumentUniqueId=GHGSAJDS
 
 [Document2]
-DocumentPath=ERN.SchLib
+DocumentPath=..\Libs\ECE Lib 22.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -81,10 +81,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=BJJOGLIY
+DocumentUniqueId=
 
 [Document3]
-DocumentPath=ERN.PcbLib
+DocumentPath=..\Libs\ECE Lib 22.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -98,10 +98,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=HQHRJBID
+DocumentUniqueId=
 
 [Document4]
-DocumentPath=..\..\..\Public\Documents\Altium\AD26\Library\ECE Lib 22.PcbLib
+DocumentPath=..\Libs\ECE LIB new.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -118,7 +118,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document5]
-DocumentPath=..\..\..\Public\Documents\Altium\AD26\Library\ECE Lib 22.SCHLIB
+DocumentPath=..\Libs\ERN.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -132,10 +132,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=GDQXHPYH
+DocumentUniqueId=
 
 [Document6]
-DocumentPath=..\..\..\Public\Documents\Altium\AD26\Library\ECE LIB new.PcbLib
+DocumentPath=..\Libs\ERN.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -152,7 +152,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7]
-DocumentPath=..\..\..\Public\Documents\Altium\AD26\Library\Miscellaneous Connectors.IntLib
+DocumentPath=..\Libs\Miscellaneous Connectors.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -169,7 +169,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8]
-DocumentPath=..\..\..\Public\Documents\Altium\AD26\Library\Miscellaneous Devices.IntLib
+DocumentPath=..\Libs\Miscellaneous Devices.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
