@@ -1,0 +1,8 @@
+Electrolytic Capacitor Sizing
+
+uF --> Diameter / Pin Spacing
+
+10uF --> D200 / 100
+47uF --> D250 / 100
+100uF --> D250 / 100
+1000uF --> D400 / 200
