@@ -1,0 +1,25 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: WirelessChargerTx.PcbDoc   4/10/2026  4:19:11 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : WirelessChargerTx.TXT
+ASCII RectHoles File : WirelessChargerTx-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.7mm)                                             Round             13        PTH        7.03inch (178.65mm)
+T2      28mil (0.711mm)                                           Round             16        PTH        7.75inch (196.83mm)
+T3      33mil (0.85mm)                                            Round             14        PTH        3.68inch (93.36mm)
+T4      35mil (0.889mm)                                           Round             40        PTH        5.10inch (129.54mm)
+T5      35mil (0.9mm)                                             Round             19        PTH        10.87inch (276.15mm)
+T6      39mil (0.991mm)                                           Round             4         PTH        0.61inch (15.50mm)
+T7      39mil (1mm)                                               Rectangle         3         PTH        1.15inch (29.18mm)
+T8      43mil (1.092mm)                                           Round             5         PTH        0.58inch (14.78mm)
+T9      52mil (1.33mm)                                            Round             12        PTH        1.82inch (46.23mm)
+T10     67mil (1.7mm)                                             Round             2         PTH        0.74inch (18.84mm)
+T11     125mil (3.175mm)                                          Round             4         PTH        13.12inch (333.34mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              132
+
+Total Processing Time (hh:mm:ss) : 00:00:00
