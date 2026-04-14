@@ -1,0 +1,23 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: ERN_MainPowerV2.PcbDoc   4/8/2026  3:58:20 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ERN_MainPowerV2.TXT
+ASCII RectHoles File : ERN_MainPowerV2-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.7mm)                                             Round             16        PTH        13.91inch (353.30mm)
+T2      28mil (0.711mm)                                           Round             31        PTH        9.92inch (252.05mm)
+T3      33mil (0.85mm)                                            Round             14        PTH        8.62inch (218.93mm)
+T4      35mil (0.9mm)                                             Round             52        PTH        21.58inch (548.25mm)
+T5      39mil (1mm)                                               Round             3         PTH        0.20inch (5.08mm)
+T6      39mil (1mm)                                               Rectangle         3         PTH        1.04inch (26.42mm)
+T7      50mil (1.27mm)                                            Round             8         PTH        2.69inch (68.30mm)
+T8      67mil (1.7mm)                                             Round             8         PTH        3.13inch (79.59mm)
+T9      125mil (3.175mm)                                          Round             4         PTH        12.70inch (322.58mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              139
+
+Total Processing Time (hh:mm:ss) : 00:00:00

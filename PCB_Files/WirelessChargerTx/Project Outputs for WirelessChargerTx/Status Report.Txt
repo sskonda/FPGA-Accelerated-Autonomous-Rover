@@ -1,0 +1,30 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [WirelessChargerTx.PrjPcb]
+   Generated File[WirelessChargerTx.GTO]
+   Generated File[WirelessChargerTx.GTP]
+   Generated File[WirelessChargerTx.GTS]
+   Generated File[WirelessChargerTx.GTL]
+   Generated File[WirelessChargerTx.GBL]
+   Generated File[WirelessChargerTx.GBS]
+   Generated File[WirelessChargerTx.GBP]
+   Generated File[WirelessChargerTx.GBO]
+   Generated File[WirelessChargerTx.GM1]
+   Generated File[WirelessChargerTx.GM13]
+   Generated File[WirelessChargerTx.GM15]
+   Generated File[WirelessChargerTx.GKO]
+   Generated File[WirelessChargerTx.GPT]
+   Generated File[WirelessChargerTx.GPB]
+   Generated File[WirelessChargerTx.1]
+   Generated File[WirelessChargerTx.GML]
+   Generated File[WirelessChargerTx.GD1]
+   Generated File[WirelessChargerTx.GG1]
+   Generated File[WirelessChargerTx.GM]
+   Generated File[WirelessChargerTx.EXTREP]
+   Generated File[WirelessChargerTx.REP]
+
+
+Files Generated   : 21
+Documents Printed : 0
+
+Finished Output Generation At 4:19:45 AM On 4/10/2026

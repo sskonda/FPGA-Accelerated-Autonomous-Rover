@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: ERN_MainPCB.PcbDoc   4/8/2026  4:57:46 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ERN_MainPCB.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.7mm)                                             Round             18        PTH        12.68inch (322.18mm)
+T2      28mil (0.711mm)                                           Round             8         PTH        5.01inch (127.32mm)
+T3      31mil (0.79mm)                                            Round             9         PTH        1.33inch (33.83mm)
+T4      33mil (0.85mm)                                            Round             48        PTH        13.90inch (353.00mm)
+T5      35mil (0.9mm)                                             Round             79        PTH        25.88inch (657.33mm)
+T6      50mil (1.27mm)                                            Round             2         PTH        0.10inch (2.54mm)
+T7      67mil (1.689mm)                                           Round             5         PTH        0.56inch (14.14mm)
+T8      125mil (3.175mm)                                          Round             4         PTH        10.71inch (271.91mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              173
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [ERN_MainPowerV2.PrjPcb]
+   Generated File[ERN_MainPowerV2.TXT]
+   Generated File[ERN_MainPowerV2-RectHoles.TXT]
+   Generated File[ERN_MainPowerV2.LDP]
+   Generated File[ERN_MainPowerV2.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 3:58:20 PM On 4/8/2026
