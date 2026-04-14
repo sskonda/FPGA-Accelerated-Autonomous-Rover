@@ -28,3 +28,7 @@
 **/.ipdefs/**
 **/ipdefs/**
 **/repo/**
+
+# Always keep PCB design files in version control
+!/PCB_Files/
+!/PCB_Files/**
