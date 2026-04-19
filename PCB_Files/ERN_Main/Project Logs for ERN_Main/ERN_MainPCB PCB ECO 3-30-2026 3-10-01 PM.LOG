@@ -1,0 +1,9 @@
+Change Component Description : Designator=U1 Old Description=Automotive 1-channel, 18-V, 2-A, 79-mâ„ New Description=Automotive 1-channel, 18-V, 2-A, 79-mâ„| load switch with adj. rise time and adj. output discharge
+Added Component: Designator=H1(Hole 125mil)
+Added Component: Designator=H2(Hole 125mil)
+Added Component: Designator=H3(Hole 125mil)
+Added Component: Designator=H4(Hole 125mil)
+Added Member To Class: ClassName=ERN_Main Member=Component H1 Hole 125mil
+Added Member To Class: ClassName=ERN_Main Member=Component H2 Hole 125mil
+Added Member To Class: ClassName=ERN_Main Member=Component H3 Hole 125mil
+Added Member To Class: ClassName=ERN_Main Member=Component H4 Hole 125mil

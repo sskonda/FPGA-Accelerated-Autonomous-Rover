@@ -1,0 +1,10 @@
+Added Component: Designator=H1(Hole 125mil)
+Added Component: Designator=H2(Hole 125mil)
+Added Component: Designator=H3(Hole 125mil)
+Added Component: Designator=H4(Hole 125mil)
+Add Pin To Net: Unknown Pin: Pin *1-18
+Add Pin To Net: Unknown Pin: Pin *1-19
+Added Member To Class: ClassName=ERN_MainPower Member=Component H1 Hole 125mil
+Added Member To Class: ClassName=ERN_MainPower Member=Component H2 Hole 125mil
+Added Member To Class: ClassName=ERN_MainPower Member=Component H3 Hole 125mil
+Added Member To Class: ClassName=ERN_MainPower Member=Component H4 Hole 125mil

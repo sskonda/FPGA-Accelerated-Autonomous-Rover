@@ -1,0 +1,11 @@
+Change Physical Footprint: Designator=C1 Old Footprint=Cap_10uF New Footprint=Cap_10uF
+Change Physical Footprint: Designator=C2 Old Footprint=Cap_47uF_100uF New Footprint=Cap_47uF_100uF
+Change Physical Footprint: Designator=C3 Old Footprint=Cap_1000uF New Footprint=Cap_1000uF
+Change Physical Footprint: Designator=C4 Old Footprint=Cap_10uF New Footprint=Cap_10uF
+Change Physical Footprint: Designator=C6 Old Footprint=Cap_47uF_100uF New Footprint=Cap_47uF_100uF
+Change Physical Footprint: Designator=C12 Old Footprint=Cap_47uF_100uF New Footprint=Cap_47uF_100uF
+Change Physical Footprint: Designator=C17 Old Footprint=Cap_47uF_100uF New Footprint=Cap_47uF_100uF
+Change Physical Footprint: Designator=C18 Old Footprint=Cap_47uF_100uF New Footprint=Cap_47uF_100uF
+Change Physical Footprint: Designator=C20 Old Footprint=Cap_47uF_100uF New Footprint=Cap_47uF_100uF
+Change Physical Footprint: Designator=Q2 Old Footprint=TO-92A New Footprint=TO-92A
+Change Physical Footprint: Designator=U1 Old Footprint=21-100399_90-100137_ADI - duplicate New Footprint=21-100399_90-100137_ADI - duplicate

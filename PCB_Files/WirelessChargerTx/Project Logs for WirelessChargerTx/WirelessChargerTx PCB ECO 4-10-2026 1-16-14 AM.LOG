@@ -1,0 +1,25 @@
+Added Component: Designator=U2(Raspberry Pi Pico)
+Added Pin To Net: NetName=ALS Pin=U2-3
+Added Pin To Net: NetName=ALS Pin=U2-8
+Added Pin To Net: NetName=ALS Pin=U2-13
+Added Pin To Net: NetName=IN+ Pin=U2-14
+Added Pin To Net: NetName=IN- Pin=U2-15
+Added Pin To Net: NetName=DIS Pin=U2-16
+Added Pin To Net: NetName=HEN Pin=U2-17
+Added Pin To Net: NetName=ALS Pin=U2-18
+Added Pin To Net: NetName=LSW Pin=U2-20
+Added Pin To Net: NetName=NetR4_1 Pin=U2-21
+Added Pin To Net: NetName=CS Pin=U2-22
+Added Pin To Net: NetName=ALS Pin=U2-23
+Added Pin To Net: NetName=CLK Pin=U2-24
+Added Pin To Net: NetName=MOSI Pin=U2-25
+Added Pin To Net: NetName=DC Pin=U2-26
+Added Pin To Net: NetName=RES Pin=U2-27
+Added Pin To Net: NetName=ALS Pin=U2-28
+Added Pin To Net: NetName=NetR3_3 Pin=U2-31
+Added Pin To Net: NetName=ALS Pin=U2-33
+Added Pin To Net: NetName=NetR3_1 Pin=U2-35
+Added Pin To Net: NetName=+3V3 Pin=U2-36
+Added Pin To Net: NetName=ALS Pin=U2-38
+Added Pin To Net: NetName=Wired5V Pin=U2-39
+Added Member To Class: ClassName=WirelessChargerTx Member=Component U2 Raspberry Pi Pico

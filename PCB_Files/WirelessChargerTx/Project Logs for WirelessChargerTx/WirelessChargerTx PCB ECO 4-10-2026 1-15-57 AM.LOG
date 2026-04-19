@@ -1,0 +1,13 @@
+Added Component: Designator=VR1(T05A_TEX)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LM2576T-5.0/NOPB/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LM2576T-5.0/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-220-5 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LM2576T-5.0/NOPB/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Vin Pin=VR1-1
+Added Pin To Net: NetName=NetD3_2 Pin=VR1-2
+Added Pin To Net: NetName=ALS Pin=VR1-3
+Added Pin To Net: NetName=NetR7_1 Pin=VR1-4
+Added Pin To Net: NetName=ALS Pin=VR1-5
+Added Member To Class: ClassName=WirelessChargerTx Member=Component VR1 LM2576T-5.0/NOPB

@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=*1 NewDesignator=U3
+Add Pin To Net: Unknown Pin: Pin U3-19
+Change Net Name : Old Net Name=Net*1_2 New Net Name=NetC8_1
+Change Net Name : Old Net Name=Net*1_3 New Net Name=NetC9_1
+Change Net Name : Old Net Name=Net*1_4 New Net Name=NetC9_2
+Change Net Name : Old Net Name=Net*1_8 New Net Name=NetD10_2
+Change Net Name : Old Net Name=Net*1_9 New Net Name=NetD9_2
+Change Net Name : Old Net Name=Net*1_13 New Net Name=NetR10_1
+Change Net Name : Old Net Name=Net*1_15 New Net Name=NetR8_1
+Change Net Name : Old Net Name=Net*1_17 New Net Name=NetR13_1
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=NetR9_2 Pin=R11-1
+Added Net: Name=NetR9_2

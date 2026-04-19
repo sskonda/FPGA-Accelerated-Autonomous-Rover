@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=OUT3 Pin=P8-3
+Removed Pin From Net: NetName=OUT4 Pin=P8-4
+Removed Pin From Net: NetName=OUT5 Pin=P8-5
+Removed Pin From Net: NetName=OUT6 Pin=P8-6
+Removed Pin From Net: NetName=OUT7 Pin=P8-7
+Removed Pin From Net: NetName=OUT8 Pin=P8-8
+Change Component Footprint: Designator=P8 Old Footprint=HDR1X8 New Footprint=HDR1X2
+Change Component Comment : Designator=P8 Old Comment=Header 8 New Comment=Header 2
+Added Component: Designator=P10(HDR1X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P11(HDR1X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P12(HDR1X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=OUT3 Pin=P10-1
+Added Pin To Net: NetName=OUT4 Pin=P10-2
+Added Pin To Net: NetName=OUT5 Pin=P11-1
+Added Pin To Net: NetName=OUT6 Pin=P11-2
+Added Pin To Net: NetName=OUT7 Pin=P12-1
+Added Pin To Net: NetName=OUT8 Pin=P12-2
+Added Member To Class: ClassName=ERN_MainPowerV2 Member=Component D7 LED2
+Added Member To Class: ClassName=ERN_MainPowerV2 Member=Component P10 Header 2
+Added Member To Class: ClassName=ERN_MainPowerV2 Member=Component P11 Header 2
+Added Member To Class: ClassName=ERN_MainPowerV2 Member=Component P12 Header 2
