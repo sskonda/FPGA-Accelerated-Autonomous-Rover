@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=C3 Old Footprint=C0805 New Footprint=RAD-0.3
+Change Component Footprint: Designator=D5 Old Footprint=LED-1 New Footprint=3.2X1.6X1.1
+Added Pin To Net: NetName=VBATT Pin=C12-1
+Added Pin To Net: NetName=VBATT Pin=R9-2
+Added Pin To Net: NetName=VBATT Pin=U3-9

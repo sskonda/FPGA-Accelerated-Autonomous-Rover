@@ -1,0 +1,71 @@
+Change Physical Footprint: Designator=C1 Old Footprint=Cap_10uF New Footprint=Cap_10uF
+Change Physical Footprint: Designator=C2 Old Footprint=Cap_47uF_100uF New Footprint=Cap_47uF_100uF
+Change Physical Footprint: Designator=C3 Old Footprint=Cap_1000uF New Footprint=Cap_1000uF
+Change Physical Footprint: Designator=C4 Old Footprint=Cap_10uF New Footprint=Cap_10uF
+Change Physical Footprint: Designator=C5 Old Footprint=RAD-0.3 New Footprint=RAD-0.3
+Change Physical Footprint: Designator=C6 Old Footprint=Cap_47uF_100uF New Footprint=Cap_47uF_100uF
+Change Physical Footprint: Designator=C7 Old Footprint=RAD-0.3 New Footprint=RAD-0.3
+Change Physical Footprint: Designator=C8 Old Footprint=c0805 New Footprint=c0805
+Change Physical Footprint: Designator=C9 Old Footprint=RAD-0.3 New Footprint=RAD-0.3
+Change Physical Footprint: Designator=C10 Old Footprint=c0805 New Footprint=c0805
+Change Physical Footprint: Designator=C11 Old Footprint=c0805 New Footprint=c0805
+Change Physical Footprint: Designator=C12 Old Footprint=Cap_47uF_100uF New Footprint=Cap_47uF_100uF
+Change Physical Footprint: Designator=C13 Old Footprint=c0805 New Footprint=c0805
+Change Physical Footprint: Designator=C14 Old Footprint=RAD-0.3 New Footprint=RAD-0.3
+Change Physical Footprint: Designator=C15 Old Footprint=RAD-0.3 New Footprint=RAD-0.3
+Change Physical Footprint: Designator=C16 Old Footprint=C0805 New Footprint=C0805
+Change Physical Footprint: Designator=C17 Old Footprint=Cap_47uF_100uF New Footprint=Cap_47uF_100uF
+Change Physical Footprint: Designator=C18 Old Footprint=Cap_47uF_100uF New Footprint=Cap_47uF_100uF
+Change Physical Footprint: Designator=C19 Old Footprint=RAD-0.3 New Footprint=RAD-0.3
+Change Physical Footprint: Designator=C20 Old Footprint=Cap_47uF_100uF New Footprint=Cap_47uF_100uF
+Change Physical Footprint: Designator=C21 Old Footprint=RAD-0.3 New Footprint=RAD-0.3
+Change Physical Footprint: Designator=C22 Old Footprint=RAD-0.3 New Footprint=RAD-0.3
+Change Physical Footprint: Designator=C23 Old Footprint=c0805 New Footprint=c0805
+Change Physical Footprint: Designator=D1 Old Footprint=DO-35 New Footprint=DO-35
+Change Physical Footprint: Designator=D2 Old Footprint=DO-35 New Footprint=DO-35
+Change Physical Footprint: Designator=D3 Old Footprint=led-0 New Footprint=led-0
+Change Physical Footprint: Designator=H1 Old Footprint=Hole 125mil New Footprint=Hole 125mil
+Change Physical Footprint: Designator=H2 Old Footprint=Hole 125mil New Footprint=Hole 125mil
+Change Physical Footprint: Designator=H3 Old Footprint=Hole 125mil New Footprint=Hole 125mil
+Change Physical Footprint: Designator=H4 Old Footprint=Hole 125mil New Footprint=Hole 125mil
+Change Physical Footprint: Designator=INA1 Old Footprint=INA260_Breakout New Footprint=INA260_Breakout
+Change Physical Footprint: Designator=J1 Old Footprint=3.5mm jack GM New Footprint=3.5mm jack GM
+Change Physical Footprint: Designator=L1 Old Footprint=SRP6540-4R7M New Footprint=SRP6540-4R7M
+Change Physical Footprint: Designator=LS1 Old Footprint=PIN2 New Footprint=PIN2
+Change Physical Footprint: Designator=P1 Old Footprint=HDR1X9 New Footprint=HDR1X9
+Change Physical Footprint: Designator=P2 Old Footprint=HDR1X8 New Footprint=HDR1X8
+Change Physical Footprint: Designator=P3 Old Footprint=HDR1X2 New Footprint=HDR1X2
+Change Physical Footprint: Designator=P4 Old Footprint=HDR1X2 New Footprint=HDR1X2
+Change Physical Footprint: Designator=P5 Old Footprint=HDR1X8 New Footprint=HDR1X8
+Change Physical Footprint: Designator=P6 Old Footprint=HDR1X4 New Footprint=HDR1X4
+Change Physical Footprint: Designator=P7 Old Footprint=HDR1X2 New Footprint=HDR1X2
+Change Physical Footprint: Designator=P8 Old Footprint=HDR1X2 New Footprint=HDR1X2
+Change Physical Footprint: Designator=Q1 Old Footprint=TO92254P460H750-3 New Footprint=TO92254P460H750-3
+Change Physical Footprint: Designator=Q2 Old Footprint=TO92254P460H750-3 New Footprint=TO92254P460H750-3
+Change Physical Footprint: Designator=Q5 Old Footprint=TO92254P460H750-3 New Footprint=TO92254P460H750-3
+Change Physical Footprint: Designator=R1 Old Footprint=AXIAL-0.3 New Footprint=AXIAL-0.3
+Change Physical Footprint: Designator=R2 Old Footprint=AXIAL-0.3 New Footprint=AXIAL-0.3
+Change Physical Footprint: Designator=R3 Old Footprint=AXIAL-0.3 New Footprint=AXIAL-0.3
+Change Physical Footprint: Designator=R4 Old Footprint=AXIAL-0.3 New Footprint=AXIAL-0.3
+Change Physical Footprint: Designator=R5 Old Footprint=AXIAL-0.3 New Footprint=AXIAL-0.3
+Change Physical Footprint: Designator=R6 Old Footprint=AXIAL-0.3 New Footprint=AXIAL-0.3
+Change Physical Footprint: Designator=R7 Old Footprint=AXIAL-0.3 New Footprint=AXIAL-0.3
+Change Physical Footprint: Designator=R8 Old Footprint=AXIAL-0.3 New Footprint=AXIAL-0.3
+Change Physical Footprint: Designator=R9 Old Footprint=AXIAL-0.3 New Footprint=AXIAL-0.3
+Change Physical Footprint: Designator=R10 Old Footprint=AXIAL-0.3 New Footprint=AXIAL-0.3
+Change Physical Footprint: Designator=R11 Old Footprint=AXIAL-0.3 New Footprint=AXIAL-0.3
+Change Physical Footprint: Designator=R12 Old Footprint=AXIAL-0.3 New Footprint=AXIAL-0.3
+Change Physical Footprint: Designator=R13 Old Footprint=AXIAL-0.3 New Footprint=AXIAL-0.3
+Change Physical Footprint: Designator=R14 Old Footprint=AXIAL-0.3 New Footprint=AXIAL-0.3
+Change Physical Footprint: Designator=R15 Old Footprint=AXIAL-0.3 New Footprint=AXIAL-0.3
+Change Physical Footprint: Designator=R16 Old Footprint=AXIAL-0.3 New Footprint=AXIAL-0.3
+Change Physical Footprint: Designator=R17 Old Footprint=AXIAL-0.3 New Footprint=AXIAL-0.3
+Change Physical Footprint: Designator=R18 Old Footprint=AXIAL-0.3 New Footprint=AXIAL-0.3
+Change Physical Footprint: Designator=R19 Old Footprint=AXIAL-0.3 New Footprint=AXIAL-0.3
+Change Physical Footprint: Designator=R20 Old Footprint=AXIAL-0.3 New Footprint=AXIAL-0.3
+Change Physical Footprint: Designator=R21 Old Footprint=AXIAL-0.3 New Footprint=AXIAL-0.3
+Change Physical Footprint: Designator=R22 Old Footprint=AXIAL-0.3 New Footprint=AXIAL-0.3
+Change Physical Footprint: Designator=R23 Old Footprint=AXIAL-0.3 New Footprint=AXIAL-0.3
+Change Physical Footprint: Designator=R24 Old Footprint=AXIAL-0.3 New Footprint=AXIAL-0.3
+Change Physical Footprint: Designator=U1 Old Footprint=21-100399_90-100137_ADI - duplicate New Footprint=21-100399_90-100137_ADI - duplicate
+Change Physical Footprint: Designator=U2 Old Footprint=IC_TPS2121RUXR New Footprint=IC_TPS2121RUXR

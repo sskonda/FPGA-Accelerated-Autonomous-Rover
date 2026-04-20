@@ -1,0 +1,16 @@
+Change Component Footprint: Designator=C1 Old Footprint=RB7.6-15 New Footprint=Cap_47uF_100uF
+Change Component Footprint: Designator=C4 Old Footprint=RB7.6-15 New Footprint=Cap_47uF_100uF
+Change Component Footprint: Designator=C13 Old Footprint=RB7.6-15 New Footprint=Cap_47uF_100uF
+Change Component Footprint: Designator=C17 Old Footprint=RB7.6-15 New Footprint=Cap_47uF_100uF
+Change Component Footprint: Designator=C20 Old Footprint=RB7.6-15 New Footprint=Cap_47uF_100uF
+Change Component Footprint: Designator=C21 Old Footprint=RB7.6-15 New Footprint=Cap_47uF_100uF
+Change Component Footprint: Designator=C8 Old Footprint=RB7.6-15 New Footprint=RB5-10.5
+Change Component Footprint: Designator=C12 Old Footprint=RB7.6-15 New Footprint=RB5-10.5
+Change component parameters: Designator = "C3" ("C3"); Footprint = "RAD-0.3"; UniqueID = "\JEIRZGPG" ("\JEIRZGPG")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"

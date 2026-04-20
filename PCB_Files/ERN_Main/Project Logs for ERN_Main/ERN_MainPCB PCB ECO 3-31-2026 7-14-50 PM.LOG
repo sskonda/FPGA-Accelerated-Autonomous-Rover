@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=ERN_Main_2 Member=C11
+Change Component Designator: OldDesignator=C11 NewDesignator=C17
+Added Member To Class: ClassName=ERN_Main_2 Member=Component C1 Cap Pol1
+Added Member To Class: ClassName=ERN_Main Member=Component C17 Cap Pol1
