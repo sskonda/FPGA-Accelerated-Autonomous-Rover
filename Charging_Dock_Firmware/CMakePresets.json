@@ -1,0 +1,28 @@
+{
+  "version": 3,
+  "cmakeMinimumRequired": {
+    "major": 3,
+    "minor": 16,
+    "patch": 0
+  },
+  "configurePresets": [
+    {
+      "name": "pico2w-ninja",
+      "displayName": "Pico 2 W Ninja",
+      "generator": "Ninja",
+      "binaryDir": "${sourceDir}/build-pico2w",
+      "cacheVariables": {
+        "PICO_BOARD": "pico2_w",
+        "PICO_SDK_PATH": "${sourceDir}/pico-sdk",
+        "PICO_TOOLCHAIN_PATH": "C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/gcc-arm-none-eabi",
+        "CMAKE_MAKE_PROGRAM": "C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/ninja/ninja.exe"
+      }
+    }
+  ],
+  "buildPresets": [
+    {
+      "name": "pico2w-ninja",
+      "configurePreset": "pico2w-ninja"
+    }
+  ]
+}

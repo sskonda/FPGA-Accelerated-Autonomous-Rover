@@ -2,17 +2,19 @@ cmake_minimum_required(VERSION 3.16)
 
 set(PICO_BOARD pico2_w CACHE STRING "Target Raspberry Pi Pico board")
 
-# Prefer a locally installed Pico GNU Arm toolchain when it is not already on PATH.
-if(WIN32 AND NOT DEFINED CMAKE_C_COMPILER)
-    file(GLOB _pico_toolchain_bins
-        "$ENV{USERPROFILE}/.pico-sdk/toolchain/*/bin"
+# The Pico SDK chooses its own toolchain before project() runs, so the
+# important setting here is PICO_TOOLCHAIN_PATH rather than CMAKE_C_COMPILER.
+if(WIN32 AND NOT DEFINED PICO_TOOLCHAIN_PATH)
+    set(_pico_toolchain_roots
+        "$ENV{USERPROFILE}/.pico-sdk/toolchain/14_2_Rel1"
+        "C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/gcc-arm-none-eabi"
+        "$ENV{LOCALAPPDATA}/stm32cube/bundles/gnu-tools-for-stm32/13.3.1+st.9"
+        "$ENV{USERPROFILE}/OneDrive - University of Florida/Miscellaneous/software/7.0/toolchain/arm/arm-gnu-toolchain"
     )
-    list(SORT _pico_toolchain_bins COMPARE NATURAL ORDER DESCENDING)
-    foreach(_toolchain_bin IN LISTS _pico_toolchain_bins)
-        if(EXISTS "${_toolchain_bin}/arm-none-eabi-gcc.exe")
-            set(CMAKE_C_COMPILER "${_toolchain_bin}/arm-none-eabi-gcc.exe" CACHE FILEPATH "ARM GCC" FORCE)
-            set(CMAKE_CXX_COMPILER "${_toolchain_bin}/arm-none-eabi-g++.exe" CACHE FILEPATH "ARM G++" FORCE)
-            set(CMAKE_ASM_COMPILER "${_toolchain_bin}/arm-none-eabi-gcc.exe" CACHE FILEPATH "ARM GCC ASM" FORCE)
+
+    foreach(_toolchain_root IN LISTS _pico_toolchain_roots)
+        if(EXISTS "${_toolchain_root}/bin/arm-none-eabi-gcc.exe")
+            set(PICO_TOOLCHAIN_PATH "${_toolchain_root}" CACHE PATH "ARM GNU toolchain root" FORCE)
             break()
         endif()
     endforeach()
