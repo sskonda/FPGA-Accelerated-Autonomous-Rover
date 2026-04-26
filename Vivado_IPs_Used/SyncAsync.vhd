@@ -1,9 +1,9 @@
 -------------------------------------------------------------------------------
 --
 -- File: SyncAsync.vhd
--- Author: Elod Gyorgy
+-- Author: Sanat Konda
 -- Original Project: HDMI input on 7-series Xilinx FPGA
--- Date: 15 December 2017
+-- Date: 12 April 2026
 --
 -------------------------------------------------------------------------------
 --MIT License
