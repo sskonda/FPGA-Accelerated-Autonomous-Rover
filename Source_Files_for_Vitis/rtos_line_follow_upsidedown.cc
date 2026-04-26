@@ -132,15 +132,15 @@
 // /* Steering P-gain (pixel_error -> duty delta). 1/2 maps +/-960 px
 //  * error to +/-480 duty delta around MOTOR_DUTY_BASE. */
 // #define STEER_KP_NUM            1
-// #define STEER_KP_DEN            2
+// #define STEER_KP_DEN            4
 
 // /* ============================================================
 //  * Motor / behavior knobs
 //  * ============================================================ */
 // #define MOTOR_PWM_PERIOD        5000U
-// #define MOTOR_DUTY_BASE         700U
-// #define MOTOR_DUTY_MIN          0U
-// #define MOTOR_DUTY_MAX          1400U
+// #define MOTOR_DUTY_BASE         4750U
+// #define MOTOR_DUTY_MIN          4500U
+// #define MOTOR_DUTY_MAX          5000U
 
 // #define SONAR_STOP_INCHES       18
 
