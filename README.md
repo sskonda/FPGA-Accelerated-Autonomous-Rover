@@ -11,7 +11,7 @@ This project is also referred to as **ERN**: **FPGA-Based Electronic Rechargeabl
 - [Project Purpose](#project-purpose)
 - [Problem Being Addressed](#problem-being-addressed)
 - [Project Overview](#project-overview)
-- [Why an FPGA SoC?](#why-an-fpga-soc)
+- [Why an FPGA SoC?](#Why an SoC Instead of a Microcontroller, Raspberry Pi, or Jetson?)
 - [Main System Capabilities](#main-system-capabilities)
 - [System Architecture](#system-architecture)
 - [Hardware/Software Partitioning](#hardwaresoftware-partitioning)
